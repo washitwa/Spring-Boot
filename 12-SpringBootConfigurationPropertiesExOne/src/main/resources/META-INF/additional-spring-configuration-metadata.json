@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "my.app.version",
+    "type": "java.lang.String",
+    "description": "A description for 'my.app.version'"
+  },
+  {
+    "name": "my.app.code",
+    "type": "java.lang.String",
+    "description": "A description for 'my.app.code'"
+  },
+  {
+    "name": "my.app.id",
+    "type": "java.lang.String",
+    "description": "A description for 'my.app.id'"
+  }
+]}
