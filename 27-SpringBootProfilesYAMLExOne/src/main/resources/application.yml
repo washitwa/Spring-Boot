@@ -1,0 +1,17 @@
+my:
+  app:
+    driver: ORACLE-DEV
+    url: JDBC
+
+---
+
+spring:
+  config:
+    activate:
+      on-profile: qa1
+  
+my:
+  app:
+    driver: abc
+    url: def
+    
